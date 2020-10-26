@@ -4,69 +4,69 @@
         "name": "Spijkers",
         "xAs": 50,
         "yAs": 50,
-        "image": ""
+      
     },
     {
         "id": 2,
         "name": "Schroeven",
         "xAs": 50,
         "yAs": 50,
-        "image": ""
+        
     },
     {
         "id": 3,
         "name": "Hout",
         "xAs": 50,
         "yAs": 50,
-        "image": ""
+        
     },
     {
         "id": 4,
         "name": "PVC",
         "xAs": 50,
         "yAs": 50,
-        "image": ""
+        
     },
     {
         "id": 5,
         "name": "Verf",
         "xAs": 50,
         "yAs": 50,
-        "image": ""
+        
     },
     {
         "id": 6,
         "name": "Batterijen",
         "xAs": 50,
         "yAs": 50,
-        "image": ""
+        
     },
     {
         "id": 7,
         "name": "Schroeven",
         "xAs": 50,
         "yAs": 50,
-        "image": ""
+        
     },
     {
         "id": 8,
         "name": "HG",
         "xAs": 50,
         "yAs": 50,
-        "image": ""
+       
     },
     {
         "id": 9,
         "name": "Verfkwasten",
         "xAs": 50,
         "yAs": 50,
-        "image": ""
+        
     },
     {
         "id": 10,
         "name": "Lampen",
         "xAs": 50,
         "yAs": 50,
-        "image": ""
+       
     } 
 ]
